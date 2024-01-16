@@ -1,0 +1,108 @@
+ .uber{
+    background-color: black;
+    color:white;
+    border-style: solid;
+    border: none;
+    width: 100px;
+    height: 35px;
+    font-size: 12;
+    margin-right: 10px;
+    cursor: pointer;
+}
+  .Amazon{
+    background-color: rgb(255, 216, 20);
+    font-weight:bold;
+    width:100px;
+    height: 35px;
+    border-radius:109px;
+    font-size: small;
+    border: none;
+    margin-right: 10px;
+    cursor: pointer;
+}
+  .Github{
+    background-color:rgb(46, 164, 79);
+    color: white;
+    border-radius: 5px;
+    border: none;
+    width: 100;
+    height: 36;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+  .bootstrap{
+    background-color:rgb(121, 82, 179);
+    color: white;
+    font-weight:bold;
+    border-radius: 2px;
+    border: none;
+    width:100;
+    height: 36px;
+    cursor: pointer;
+}
+  
+  .bootstrap2{
+    font-weight: bold;
+    color: rgb(108, 117, 123);
+    border-color: rgb(108, 117, 123) ;
+    width: 100;
+    height: 36px;
+    border-radius: 5px;
+    border:solid;
+    cursor: pointer;
+}
+.Linkedin{
+  background-color: rgb(10, 102, 194);
+  color: white;
+  border-radius:20px;
+  border: none;
+  width: 200px;
+  height: 36px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.save{
+  color:  rgb(10, 102, 194);
+  border-radius: 20px;
+  border-color:  rgb(10, 102, 194);
+  border: solid;
+  width: 100px;
+  height: 36px;
+  font-weight: bold;
+  font-size: large;
+  cursor: pointer;
+}
+.Ama{
+  color: rgb(0, 113, 133);
+  font-weight: bold;
+  font-size:large;
+}
+.stock{
+  color: rgb(0, 118, 0);
+  font-weight: bold;
+  font-size: large;
+}
+.free{
+  color:black;
+  font-weight: bold;
+  font-size: large;
+}
+.add{
+  background-color:rgb(255, 216, 20);
+  font-weight: bold;
+  border: none;
+  width: 100px;
+  height: 35;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.buy{
+  background-color: rgb(255, 164, 28);
+  font-weight: bold;
+  border-radius: 20px;
+  border: none;
+  width: 100px;
+  height: 35px;
+  cursor: pointer;
+  }
